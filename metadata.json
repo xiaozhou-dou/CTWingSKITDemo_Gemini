@@ -1,0 +1,8 @@
+{
+  "name": "STM32 Industrial Terminal & Simulator",
+  "description": "STM32 Industrial Terminal & Hardware Monitor for HTS221 sensor telemetry, DC motor PWM control, RGB illumination, and serial protocol transceiver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

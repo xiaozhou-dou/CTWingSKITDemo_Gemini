@@ -1,11 +1,1 @@
-<div align="center">
-
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+CTWingDemo_V1更新日志： （1）引脚配置 MOA--PB0 MOB--PB1 KEY1--PA6 KEY2--PA7 RGB_CONTROL--PA1 SCL--PB6 SDA--PB7 R--PB2 G--PB10 B--PB11 （2）功能要点 ·USART2调试串口传输 ·HTS221温湿度数据采集 ·直流电机PWM调速 ·RGB1模式切换
